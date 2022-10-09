@@ -4,7 +4,14 @@ Make IT Work is a educational fulltime coure where you learn to become a softwar
 I have finished the first fase (6 weeks) of this course where we hav learn the basics of programming, sql and Oop.
 Here you kan see a few of the projects I have completed.
 
-<u>File Programming</u>
+File Programming
+- Kerstgroet
+- Leeftijdberekening
+- BMI berekening
+- Verkoopprijs
+- BMI-Vervolg
+- Loops
+
 
 Files OOP
 
