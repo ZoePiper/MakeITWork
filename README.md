@@ -11,8 +11,19 @@ File Programming
 - Verkoopprijs
 - BMI-Vervolg
 - Loops
+- Vermenigvuldigen (money-exchange)
+- Tafels
+- Array
 
 
 Files OOP
 - Bedrijf
 - Meetkunde
+- Simonly
+- Voetbalscoresdeel 2
+- Bootverhuur
+- Opensession
+- Opensession 4 (work in progress)
+
+Overzicht
+- LocalDate
